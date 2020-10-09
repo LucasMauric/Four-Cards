@@ -112,6 +112,7 @@ p{
 }
 
 @media (max-width:1049px){
+   body {width:100%;}
   .card-1, .card-3{
     transform: translateY(0);
   }
